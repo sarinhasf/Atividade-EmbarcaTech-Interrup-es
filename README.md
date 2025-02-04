@@ -43,7 +43,7 @@ entendimento.
 
 Essa lógica permite controlar a exibição na matriz de LEDs de forma precisa, sem efeitos indesejados causados pelo bouncing dos botões.
 
-💻 Instruções para Importar, Compilar e Rodar o Código Localmente:
+## 💻 Instruções para Importar, Compilar e Rodar o Código Localmente:
 
 Siga os passos abaixo para clonar o repositório, importar no VS Code usando a extensão do **Raspberry Pi Pico Project**, compilar e executar o código.
 
@@ -68,7 +68,7 @@ Siga os passos abaixo para clonar o repositório, importar no VS Code usando a e
 
 
 
-Desenvolvedor:
+## Desenvolvedor:
  
 <table>
   <tr>
@@ -76,7 +76,7 @@ Desenvolvedor:
     </tr>
 </table>
 
-Link do video de apresentação: 
+## Link do video de apresentação: 
 
 <table>
   <tr>
